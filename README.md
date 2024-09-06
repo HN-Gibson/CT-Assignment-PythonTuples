@@ -4,4 +4,4 @@
 
 ---
 
-This is where I will show my understanding of the tuples.
+This is where I will show my understanding of tuples.
